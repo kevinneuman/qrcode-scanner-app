@@ -1,8 +1,9 @@
 # qrcode-scanner-app
 React Native QR Code scanner app
 
+[React Native - Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
+
 ```
-> [React Native - Getting Started](https://kevinneuman.fi/projects/chat)
 > start emulator
 > git clone https://github.com/kevinneuman/qrcode-scanner-app.git
 > cd qrcode-scanner-app
